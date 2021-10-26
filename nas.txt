@@ -1,36 +1,20 @@
-192.168.1.111 nas.apiof.com
-192.168.1.111 code.apiof.com
-192.168.1.111 drone.apiof.com
-192.168.1.111 vscode.apiof.com
-192.168.1.111 registry.apiof.com
-192.168.1.111 maven.apiof.com
-192.168.1.111 docker.apiof.com
-192.168.1.111 gitlab.apiof.com
-192.168.1.111 jenkins.apiof.com
 
+192.168.1.111 code.apiof.com
 192.168.1.111 ddns.apiof.com
-192.168.2.200 hass.apiof.com
-192.168.1.111 pt.apiof.com
-192.168.1.111 code.apiof.com
-192.168.1.111 pan.apiof.com
-192.168.1.111 oss.apiof.com
-192.168.1.111 oss-console.apiof.com
-
-
-192.168.1.111 code.apiof.com
-192.168.1.111 nas.apiof.com
-192.168.1.111 maven.apiof.com
-192.168.1.111 pan.apiof.com
-192.168.1.111 drone.apiof.com
-192.168.1.111 homebridge.apiof.com
-192.168.1.111 registry.apiof.com
-192.168.1.111 gitlab.apiof.com
 192.168.1.111 docker.apiof.com
-192.168.1.111 jenkins.apiof.com
-192.168.1.165 pve.apiof.com
-192.168.1.111 ddns.apiof.com
-192.168.1.111 vscode.apiof.com
+192.168.1.111 drone.apiof.com
+192.168.1.111 gitlab.apiof.com
+192.168.1.111 hass.apiof.com
 192.168.1.111 home.apiof.com
-192.168.1.111 hass.apiof.com
-
-192.168.1.111 hass.apiof.com
+192.168.1.111 homebridge.apiof.com
+192.168.1.111 jenkins.apiof.com
+192.168.1.111 maven.apiof.com
+192.168.1.111 nas.apiof.com
+192.168.1.111 oss-console.apiof.com
+192.168.1.111 oss.apiof.com
+192.168.1.111 pan.apiof.com
+192.168.1.111 pt.apiof.com
+192.168.1.111 registry.apiof.com
+192.168.1.111 vscode.apiof.com
+192.168.1.165 pve.apiof.com
+192.168.2.200 hass.apiof.com
