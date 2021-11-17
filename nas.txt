@@ -15,6 +15,7 @@
 192.168.1.111 registry.apiof.com
 192.168.1.111 vscode.apiof.com
 192.168.1.111 graylog.apiof.com
+192.168.1.111 jfrog.apiof.com
 
 192.168.1.165 pve.apiof.com
 192.168.2.200 hass.apiof.com
