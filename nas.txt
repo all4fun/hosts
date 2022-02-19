@@ -16,10 +16,14 @@
 192.168.1.111 vscode.apiof.com
 192.168.1.111 graylog.apiof.com
 192.168.1.111 hub.apiof.com
+192.168.1.111 jfrog.apiof.com
 
 192.168.1.165 pve.apiof.com
 192.168.2.200 hass.apiof.com
 
 192.168.2.253 pve1.apiof.com
 192.168.2.253 pvehost1.apiof.com
+
+# 新centos nginx 代理
+192.168.2.104 dev.apiof.com
 
