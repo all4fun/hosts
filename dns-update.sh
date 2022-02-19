@@ -2,14 +2,15 @@
 # author: wangheng
 # date: 2022-02-19
 
-host_content=$(/usr/bin/curl -sL https://raw.githubusercontent.com/all4fun/hosts/main/nas.txt)
+wget https://raw.githubusercontent.com/all4fun/hosts/main/nas.txt -O /tmp/hosts.nas
+host_content=`cat /tmp/hosts.nas`
 
 if [ -z "host_content" ]; then
     echo "get remote hosts failed..."
     exit 1
 fi
 
-echo $host_content > /etc/hosts.nas
+mv -f /tmp/hosts.nas /etc/hosts.nas
 
 /etc/init.d/dnsmasq restart
 
