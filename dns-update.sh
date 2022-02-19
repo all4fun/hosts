@@ -12,3 +12,5 @@ fi
 echo $host_content > /etc/hosts.nas
 
 /etc/init.d/dnsmasq restart
+
+echo "dns update success.."
