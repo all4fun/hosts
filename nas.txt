@@ -28,10 +28,10 @@
 192.168.2.104 dev.apiof.com
 
 #PVE Hosts
-node0.lan 192.168.2.100
-node1.lan 192.168.2.101
-node2.lan 192.168.2.102
-node3.lan 192.168.2.103
-k8s-master.lan 192.168.2.105
-k8s-node1.lan  192.168.2.106
-k8s-node2.lan  192.168.2.107
+192.168.2.100 node0
+192.168.2.101 node1
+192.168.2.102 node2
+192.168.2.103 node3
+192.168.2.105 k8s-master
+192.168.2.106 k8s-node1
+192.168.2.107 k8s-node2
