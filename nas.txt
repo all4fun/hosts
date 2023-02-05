@@ -4,7 +4,6 @@
 192.168.1.111 docker.apiof.com
 192.168.1.111 drone.apiof.com
 192.168.1.111 gitlab.apiof.com
-192.168.1.111 home.apiof.com
 192.168.1.111 homebridge.apiof.com
 192.168.1.111 jenkins.apiof.com
 192.168.1.111 pt.apiof.com
